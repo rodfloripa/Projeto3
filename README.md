@@ -5,6 +5,6 @@ O projeto mostra a análise de avaliações de filmes do site RottenTomatoes, co
 comparando as avaliações da crítica e do público. O objetivo é descobrir correlações entre as notas do público e 
 crítica especializada.
 
-![ ](https://github.com/rodfloripa/Projeto3/blob/master/correlacao.png
+![fig](https://github.com/rodfloripa/Projeto3/blob/master/correlacao.png)
 
 https://public.tableau.com/profile/rodney.nascimento.da.silva#!/vizhome/Projeto-AvaliaodaFilmes_v2/Histria1
